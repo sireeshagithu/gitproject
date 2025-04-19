@@ -1,3 +1,2 @@
 class user{
- String name="java";
 }
