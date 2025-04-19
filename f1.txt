@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 
 //jira 102
 public void m2(){
 //logic
+=======
+class user{
+>>>>>>> Stashed changes
 }
