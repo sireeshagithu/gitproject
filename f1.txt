@@ -6,5 +6,4 @@ public void m2(){
 =======
 class user{
 >>>>>>> Stashed changes
-String name="java"
 }
