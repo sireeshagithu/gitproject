@@ -6,4 +6,5 @@ public void m2(){
 =======
 class user{
 >>>>>>> Stashed changes
+int i=57;
 }
